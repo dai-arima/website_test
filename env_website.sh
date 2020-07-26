@@ -6,3 +6,4 @@ python3.7 -m venv website_test
 source website_test/bin/activate
 pip install --upgrade pip
 pip install requests
+pip install jupyter
