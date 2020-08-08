@@ -7,3 +7,4 @@ source website_test/bin/activate
 pip install --upgrade pip
 pip install requests
 pip install jupyter
+pip install jupyter_contrib_nbextensions
